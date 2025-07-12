@@ -31,7 +31,7 @@ Game Dev: Godot Engine (learning)
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hameed-aliyar&show_icons=true&theme=tokyonight" height="150"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameed-aliyar&layout=compact&theme=tokyonight" height="150"/>
-  <!-- <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hameed-aliyar&theme=tokyonight" height="150"/>.... -->
+  <!-- <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hameed-aliyar&theme=tokyonight" height="150"/>... -->
 </p>
 
 
