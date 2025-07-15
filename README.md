@@ -31,15 +31,16 @@ Game Dev: Godot Engine (learning)
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/hameed-aliyar">
-    <img src="https://github-readme-stats.vercel.app/api?username=hameed-aliyar&show_icons=true&theme=tokyonight&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hameed-aliyar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" height="180" />
   </a>
   <a href="https://github.com/hameed-aliyar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameed-aliyar&layout=compact&theme=tokyonight&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hameed-aliyar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" height="180"/>
   </a>
   <a href="https://github.com/hameed-aliyar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hameed-aliyar&theme=tokyonight&hide_border=true" height="180"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hameed-aliyar&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
