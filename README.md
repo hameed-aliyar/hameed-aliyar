@@ -16,10 +16,10 @@
 🛠️ **Languages & Tools**
 
 ```python
-Languages: Python, Java, C, C++, JavaScript, TypeScript  
-Web: HTML, CSS, MongoDB, Express.js, React, Node.js, Angular (learning)  
+Languages: Python, Java, C, C++, JavaScript, TypeScript(learning)
+Web: HTML, CSS, MongoDB, Express.js, React, Node.js, Angular(learning)  
 Tools: Git, GitHub, VS Code, Figma, Shotcut, Clipchamp 
-Game Dev: Godot Engine (learning)
+Game Dev: Godot-Engine(learning)
 
 ```
 
