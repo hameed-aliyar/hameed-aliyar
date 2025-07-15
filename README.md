@@ -31,10 +31,10 @@ Game Dev: Godot Engine (learning)
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/hameed-aliyar">
-    <img src="https://github-readme-stats-hameed-aliyar.vercel.app/api?username=hameed-aliyar&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats-tau-jet-82.vercel.app/api?username=hameed-aliyar&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/hameed-aliyar">
-    <img src="https://github-readme-stats-hameed-aliyar.vercel.app/api/top-langs/?username=hameed-aliyar&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats-tau-jet-82.vercel.app/api/top-langs/?username=hameed-aliyar&layout=compact&theme=tokyonight" />
   </a>
   <a href="https://github.com/hameed-aliyar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hameed-aliyar&theme=tokyonight&hide_border=true" height="180"/>
