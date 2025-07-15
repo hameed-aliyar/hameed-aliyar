@@ -40,6 +40,10 @@ Game Dev: Godot Engine (learning)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hameed-aliyar&theme=tokyonight&hide_border=true" height="180"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hameed-aliyar&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
+
 
 
 
