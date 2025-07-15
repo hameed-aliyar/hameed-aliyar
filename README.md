@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Hameed T A 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Degree+Student;Computer+Engineering+Diploma+Graduate;MERN+Stack+Learner;Aspiring+Game+Developer;&center=true&width=500&height=45">
-</p>
 
 ---
 
