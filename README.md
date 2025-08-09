@@ -7,7 +7,7 @@
 
 - 💻 Final-year **Computer Science and Engineering** student  
 - 🎓 Completed **3-year Diploma** in **Computer Engineering**
-- 💡 Passionate about **Web Development**, **AI**, and **Game Development**
+- 💡 Passionate about **Web Development**, **AI**, **ML**, and **Game Development**
 - 🎥 Knows a little bit about **Video Editing** and content creation
 - 🎮 Currently diving into **Godot Engine** for indie game dev
 
