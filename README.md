@@ -17,7 +17,7 @@
 
 ```python
 Languages: Python, Java, C, C++, JavaScript, TypeScript(learning)
-Web: HTML, CSS, Node.js, Express.js, PostgreSQL, MySQL, MongoDB, React & Angular(learning)  
+Web: HTML, CSS, Node.js, Express.js, Flask, Django, PostgreSQL, MySQL, MongoDB, React & Angular(learning)  
 Tools: Git, GitHub, VS Code, Postman, Thunder Client 
 Game Dev: Godot-Engine(learning)
 
