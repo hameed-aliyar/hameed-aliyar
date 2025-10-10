@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 💻Final-year Computer Science and Engineering student<br>🎓Completed 3-year Diploma in Computer Engineering<br>💡Passionate about Web Development, AI, ML, and Game Development<br>🎥Knows a little bit about Video Editing and content creation<br>🎮Currently diving into Godot Engine for indie game dev
+### 💻Final-year Computer Science and Engineering student<br>🎓Completed 3-year Diploma in Computer Engineering<br>💡Passionate about Web Development, AI, ML, and Game Development<br>🎥Knows a little bit about Video Editing and content creation<br>🎮Currently diving into Godot Engine for indie game dev
 
 
 ## 🌐 Socials:
